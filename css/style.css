@@ -1,0 +1,126 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Hind:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap');
+
+
+:root{
+	--bg-body: #F8F9FB;
+	--color-azul: #00ACB2;
+	--color-titulos:  #3c3838;
+}
+body{
+	font-family: 'Hind', sans-serif;
+	font-size: 14px;
+	background-color: var(--bg-body);
+	color: #333;
+}
+h1,h2,h3,h4,h5,h6{
+	color: var(--color-titulos);
+	font-family:Roboto;
+}
+
+#hero {
+background-color: #25282F;
+color: #FEFEFE;
+padding: 7% 0;
+
+}
+#hero h1 {
+	font-weight: 700;
+	color: #FFFFFF;
+}
+
+#hero h2{
+	font-weight: 300;
+	color: #FFFFFF
+}
+
+header{
+	background-color: var(--bg-body);
+	/*box-shadow: 0px 0px 5px 3px #eee;*/
+}
+
+footer{
+	background-color: var(--bg-body);
+	color: #333;
+	padding: 30px 0;
+	text-align: center;
+}
+
+
+#our-classes{
+padding: 6% 0;
+background-color: #F8F9FB;	
+color: #00ACB2;
+}
+#CTA {
+	background-color:  #25282F;
+	padding: 7% 0;
+	color: #FFFFFF;
+}
+
+#CTA h2 {
+	color: #FFFFFF;
+}
+.blanco{
+background-color: #FFFFFF;
+}
+
+#Fitness {
+	background-image: url("../img/health-fitness.jpg");
+	padding: 15% 0;
+}
+
+#Fitness h4{
+	
+	color:  #00ACB2;
+	font-size: 16px;
+}
+
+#Trainers {
+color: #FFFFFF;
+background-color: #25282F;
+padding: 5% 0;
+text-align: center;
+}
+
+#Trainers h2{
+	color: #FFFFFF;
+}
+
+#subscribe {
+padding: % 0;
+}
+
+#subscribe h2{
+	
+margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
